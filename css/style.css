@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+
+.corpo {
+    display: flex;
+    width: 90%;
+    margin: auto;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 5%;
+}
+.destino {
+    display: flex;
+    width: 90%;
+    margin: auto;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 5%;
+}
+
+body {
+    background-image: url(/img/hot-air-balloons-5630493.jpg);
+    background-size: cover;
+    background-position: no-repeat;
+    background-attachment: fixed;
+}
+
+span {
+    font-weight: 600;
+    font-size: 20px;
+    color: red;
+    border-bottom: solid 2px;
+    padding: 1px;
+    border-radius: 15px; 
+}
+
+.card-text {
+    font-size: 15px;
+    text-align: justify; 
+}
+
+img{
+    width: 350px;
+    height: 230px;
+    border-radius: 6px;
+}
+
+.card{
+    border-radius: 6px; 
+}
+
