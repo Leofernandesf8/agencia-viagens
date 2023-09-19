@@ -10,6 +10,13 @@
     gap: 10px;
     margin-top: 5%;
 }
+
+main {
+    
+    
+    
+}
+
 .destino {
     display: flex;
     width: 90%;
@@ -20,7 +27,7 @@
 }
 
 body {
-    background-image: url(/img/hot-air-balloons-5630493.jpg);
+    background-image: url(/src/img/hot-air-balloons-5630493.jpg);
     background-size: cover;
     background-position: no-repeat;
     background-attachment: fixed;
@@ -48,5 +55,8 @@ img{
 
 .card{
     border-radius: 6px; 
+}
+.mb-3{
+    font:;
 }
 
